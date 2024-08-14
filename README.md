@@ -1,2 +1,2 @@
-# VAPT_on_Metasploitable2
-Vulnerability Assessment and Penetration Testing on Metasploitable 2
+# Vulnerability Assessment and Penetration Testing on Metasploitable 2
+We conducted a Vulnerability Assessment and Penetration Testing (VAPT) on the Metasploitable 2 machine, a purposefully vulnerable system used for security testing. Using a combination of manual and automated tools, including Metasploit, we identified and exploited various vulnerabilities within the system. The assessment provided insights into potential attack vectors, and the results included a detailed analysis of the identified weaknesses. The final report includes a summary of the exploits used, the vulnerabilities discovered, and recommendations for improving the security of similar systems.
